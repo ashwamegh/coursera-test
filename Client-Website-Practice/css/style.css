@@ -1,0 +1,14 @@
+/************Global Styles**************/
+body{
+	color: #fff;
+	font-size: 16px;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/***HEADER***/
+#header-nav{
+	background-color: #f6b319;
+	border: 0;
+	border-radius: 0;
+}
