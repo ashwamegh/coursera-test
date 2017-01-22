@@ -41,8 +41,7 @@ body{
 	color: #eee;
 	font-size: 1.4em;
     font-weight: bold;
-	text-transform: uppercase;
-	text-shadow: 1px 1px 1px #222;
+    text-shadow: 1px 1px 1px #222;
 	margin-top: 0;
 	margin-bottom: 30px;
 	line-height: 0.75;
